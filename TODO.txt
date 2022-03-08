@@ -1,0 +1,8 @@
+[1] read about chip8 emulator from the official manual page and tutorials - DONE
+[2] determine project design pre implementation - DONE
+[3] create the design - DONE
+[4] create stack - DONE
+[5] create fatch, decode and execute of processor not graphicacl commands - DONE
+[6] create graphical commands
+[7] check and debug to verify flow and execution
+[8] emulate some games like Pong and TicTac and print IBM symbol
